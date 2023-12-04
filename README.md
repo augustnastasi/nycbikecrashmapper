@@ -6,7 +6,7 @@ The NYC Bike Crashes Interactive Map visualizes bike crash data in New York City
 
 ## Preview
 
-![Map Preview](<"C:\Users\augus\OneDrive\Columbia University\Year 1\Semester 1\PLA6619 Introduction to Urban Data and Informatics\FinalProject\Presentations\FinalPresentation\Outputs\interactive\webmap_screenshot.png">)
+![Map Preview](<"https://github.com/augustnastasi/nycbikecrashmapper/blob/main/webmap_screenshot.png">)
 
 ## Features
 
