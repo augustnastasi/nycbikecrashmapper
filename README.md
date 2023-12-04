@@ -4,10 +4,6 @@
 
 The NYC Bike Crashes Interactive Map visualizes bike crash data in New York City between January 2018 and November 2023. The map clusters crash incidents into hexagon polygons, providing insights into the locations of the most dangerous intersections.
 
-## Preview
-
-![Map Preview](<"https://raw.githubusercontent.com/augustnastasi/nycbikecrashmapper/main/webmap_screenshot.png">)
-
 ## Features
 
 - **Hexbin Clustering:** Utilizes hexbin clustering to represent the density of bike crashes.
